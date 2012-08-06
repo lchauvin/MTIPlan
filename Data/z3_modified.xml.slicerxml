@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+
+<interventional_plan patient_name=""
+		study_instance_UID=""
+		series_instance_UID="">
+<trajectory_list>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.479648	0	-0.877461"/>
+<target  coordinates="-123.819	-122.629	-257.01"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.963734	0	-0.266864"/>
+<target  coordinates="-87.6782	-122.629	-211.424"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.98557	0	-0.169268"/>
+<target  coordinates="-86.0479	-122.629	-204.137"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.387657	0.0389152	-0.920982"/>
+<target  coordinates="-130.687	-119.724	-260.259"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.837535	0.0840767	-0.539876"/>
+<target  coordinates="-97.1	-116.352	-231.806"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.887002	0.0890424	-0.4531"/>
+<target  coordinates="-93.4069	-115.981	-225.328"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.99256	0.0996389	-0.0699793"/>
+<target  coordinates="-85.5261	-115.19	-196.725"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.965904	0.1959	-0.169268"/>
+<target  coordinates="-87.5161	-108.003	-204.137"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.539638	0.167019	-0.825164"/>
+<target  coordinates="-119.341	-110.16	-253.105"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.615675	0.190553	-0.764614"/>
+<target  coordinates="-113.664	-108.403	-248.585"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.685554	0.212181	-0.696416"/>
+<target  coordinates="-108.447	-106.788	-243.493"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.851604	0.263574	-0.4531"/>
+<target  coordinates="-96.0496	-102.951	-225.328"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.890579	0.275637	-0.361791"/>
+<target  coordinates="-93.1398	-102.05	-218.511"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.920647	0.284943	-0.266864"/>
+<target  coordinates="-90.895	-101.356	-211.424"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.520257	0.220085	-0.825164"/>
+<target  coordinates="-120.787	-106.198	-253.105"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.775232	0.327948	-0.539876"/>
+<target  coordinates="-101.751	-98.1449	-231.806"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.918724	0.38865	-0.0699793"/>
+<target  coordinates="-91.0385	-93.613	-196.725"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.565514	0.309128	-0.764614"/>
+<target  coordinates="-117.409	-99.55	-248.585"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.782221	0.427587	-0.4531"/>
+<target  coordinates="-101.23	-90.7061	-225.328"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.845639	0.462253	-0.266864"/>
+<target  coordinates="-96.4949	-88.1179	-211.424"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.646607	0.442656	-0.621253"/>
+<target  coordinates="-111.354	-89.581	-237.882"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.769267	0.526627	-0.361791"/>
+<target  coordinates="-102.197	-83.3119	-218.511"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.401432	-0.397438	-0.825164"/>
+<target  coordinates="-129.659	-152.301	-253.105"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.325826	-0.21361	-0.920982"/>
+<target  coordinates="-135.303	-138.577	-260.259"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.445397	-0.177999	-0.877461"/>
+<target  coordinates="-126.376	-135.918	-257.01"/>
+</trajectory>
+<trajectory>
+<entry_point coordinates="-159.629	-122.629	-191.5"/>
+<direction vector="0.460949	-0.132621	-0.877461"/>
+<target  coordinates="-125.215	-132.53	-257.01"/>
+</trajectory>
+</trajectory_list>
+</interventional_plan>
